@@ -2,7 +2,7 @@
 - Utility for generating a standardized daily log markdown template.
 
 ## Usage
-`daily-log "Stand-Up Meeting" "1:1 with Bubba" "Backlog Grooming"`
+`daily-log "Stand-Up Meeting" "1:1 with Bubba" "Backlog Grooming" | pbcopy`
 
 Will generate output that looks like this and you can copy/paste it into a markdown editor, like Obsidian ::
 ```
